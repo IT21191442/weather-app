@@ -16,4 +16,12 @@
 5. Start the weatherReport backend - npm start
 6. Start the weatherReport backend in development mode - npm run dev
 
+# API Documentaion
+1. OpenWeatherMap API:
+     - Purpose: Fetches real-time weather data for user locations.
+     - Used for: Obtaining current temperature, weather description, humidity, and wind speed.
+2. Google Maps Geocoding API:
+     - Purpose: Converts geographic coordinates (latitude and longitude) into human-readable addresses.
+     - Used for: Getting city names from user location coordinates.
+
 
