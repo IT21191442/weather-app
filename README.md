@@ -31,11 +31,12 @@
     - Purpose: Sends emails to users.
   
 # Answers for Questions
-1. To use Google Cloud to get the city name from coordinates, you'll be using the Google Maps Geocoding API.Send the latitude and longitude to Google's API.The API returns various 
+7. To use Google Cloud to get the city name from coordinates, you'll be using the Google Maps Geocoding API.Send the latitude and longitude to Google's API.The API returns various 
    address components and extract the city name from these components.
-2.
-3.
-4. I couldn't get the Google MapAPI key, that's why the response is empty. 
+8.
+9.
+10. I couldn't get the Google MapAPI key, that's why the response is empty.
+    
 {
 	"info": {
 		"_postman_id": "b4616df5-4149-4acb-ba9e-046009beced2",
