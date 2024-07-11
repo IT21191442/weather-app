@@ -1,6 +1,6 @@
 # Sandeepa Rathnayaka
 # Setup Instructions
-1. Clone the Repository - [click this link]()
+1. Clone the Repository - [click this link](https://github.com/IT21191442/weather-app.git)
 2. Open terminal and redirect to the server.
 3. Install Dependencies using npm install or npm i
 4. Configure Environment Variables.
